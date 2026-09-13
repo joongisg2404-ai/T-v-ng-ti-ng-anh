@@ -1,0 +1,10 @@
+{
+  "name": "VocabSRS - Oxford Spaced System",
+  "description": "Ứng dụng học từ vựng tiếng Anh theo phương pháp lặp lại ngắt quãng (Spaced Repetition System - SRS) với kho từ Oxford, thẻ Flashcard, luyện đánh vần và nhật ký phản xạ.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
